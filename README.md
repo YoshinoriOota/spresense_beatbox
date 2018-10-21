@@ -2,7 +2,7 @@
 Sketch for Spresense BeatBox
 
 ## Directory Structure
-'''
+```
 spresense_beatbox.ino
    |
    + resources + L1.mp3
@@ -21,5 +21,5 @@ spresense_beatbox.ino
                + R6.mp3
                + R7.mp3
                + R8.mp3
-'''
+```
 
