@@ -23,3 +23,6 @@ spresense_beatbox.ino
                + R8.mp3
 ```
 
+The license of MP3 audio files are under CC-BY-NC-SA. For more details, see https://en.wikipedia.org/wiki/Creative_Commons_license
+
+
