@@ -2,8 +2,8 @@
 Sketch for Spresense BeatBox
 
 ## License
-spresense_beatbox.ino 
-Sketch for SPRESENSE Beat Box
+spresense_beatbox.ino <br/>
+Sketch for SPRESENSE Beat Box <br/>
 Copyright 2018 Yoshinori Oota
 
 This library is free software; you can redistribute it and/or
