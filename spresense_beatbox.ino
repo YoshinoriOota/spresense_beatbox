@@ -1,4 +1,4 @@
-**
+/**
  *  spresense_beatbox.ino 
  *  Sketch for SPRESENSE Beat Box
  *  Copyright 2018 Yoshinori Oota
